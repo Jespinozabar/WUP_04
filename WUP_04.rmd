@@ -78,4 +78,4 @@ Looking at the graph we can tell that there is a statistical difference between 
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
 
-
+In this write up the data showed that individuals with higher education levels tend to have higher WORDSUM scores compared to those with lower education levels, such as high school and less than high school. This difference was seen by the boxplot and statistically confirmed by the ANOVA test, which showed a significant effect of education level of WORDSUM scores (p=0.000236).
