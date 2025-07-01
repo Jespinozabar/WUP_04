@@ -72,7 +72,7 @@ par(mar = c(3, 17, 2, 2))
 plot(TukeyHSD(model1, conf.level =0.98), las=2)
 ```
 
-Looking at the graph we have a dotted line above zero the only thing it doesnt cut into is the difference between the LT high school and the graduate high school.
+Looking at the graph we can tell that there is a statistical difference between high school and graduate, as well as a statistical difference between LT high school and graduate. We also have a dotted line above zero the only thing it doesnt cut into is the difference between the LT high school and the graduate high school meaning there is a statistical difference.
 
 # Discussion and Conclusion
 
